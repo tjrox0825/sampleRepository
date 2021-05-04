@@ -1,0 +1,5 @@
+*.log 
+/dir/
+static/
+.DS_Store
+db.accdb
